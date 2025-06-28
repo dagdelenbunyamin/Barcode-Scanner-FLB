@@ -38,7 +38,8 @@ source venv/bin/activate     # (Linux/macOS)
 # venv\Scripts\activate      # (Windows)
 
 # Abhängigkeiten installieren
-pip install -r requirements.txt
+pip install streamlit opencv-python pyzbar numpy fpdf
+
 
 # Anwendung starten
 streamlit run app.py
