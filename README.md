@@ -44,6 +44,10 @@ pip install streamlit opencv-python pyzbar numpy fpdf
 # Anwendung starten
 streamlit run app.py
 
+# Passwort & Benutzer
+-- Passwort: flb23
+-- Benutzername: admin
+
 ## 🛡️ Datenschutz
 
 Alle personenbezogenen Daten (z. B. Schülernamen) werden lokal in einer gesicherten SQLite-Datenbank gespeichert. Der Zugriff erfolgt nur für autorisierte Benutzer.
