@@ -59,6 +59,6 @@ MIT License – frei nutzbar für Bildungseinrichtungen.
 ## 👤 Autor
 
 **Bünyamin Dagdelen**  
-📧 [dagdelenbunyamin023@gmail.com]  
+📧 [buenyamin.dagdelen@dagdelen.info]  
 📍 Deutschland
 
