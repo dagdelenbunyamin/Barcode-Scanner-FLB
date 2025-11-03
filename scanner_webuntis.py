@@ -13,7 +13,7 @@ from pyzbar.pyzbar import decode
 # ============= Konfiguration / Zugangsdaten =============
 
 # Bitte diese Zugangsdaten sicher in einer .env-Datei ablegen!
-STUDENT_ID   = ".."  # Schulnummer
+STUDENT_ID   = "5186600"  # Schulnummer
 SCHOOL_NAME  = "flbk-bonn"
 SERVER_URL   = "ajax.webuntis.com"
 UNTIS_USER   = "Vorname.Nachname"
